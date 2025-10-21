@@ -1,0 +1,5 @@
+{
+  "name": "XAUUSD Lot Size Calculator",
+  "description": "An interactive web calculator that determines the correct lot size for XAUUSD trades based on user-defined risk, stop loss, and pip value. The app provides instant calculations with a clean and minimal UI.",
+  "requestFramePermissions": []
+}
